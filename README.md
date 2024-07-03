@@ -1,7 +1,4 @@
-
-
 <h1 align="center">Mohammad Shahabuddin</h1>
-#### Design and Developement
 ![Design and Developement](https://github.com/xshshahab/xshshahab/blob/main/Github%20Banner.png)
 
 <h3 align="center">I'm Shahabuddin from India, and I do content on Design and Development. I really enjoy learning languages and frameworks like Next js. I also enjoy ui, ux, and design in general.</h3>
