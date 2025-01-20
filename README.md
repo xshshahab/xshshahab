@@ -6,11 +6,11 @@
 
 <p align="left"> <a href="https://twitter.com/xsh_shahab" target="blank"><img src="https://img.shields.io/twitter/follow/xsh_shahab?logo=twitter&style=for-the-badge" alt="xsh_shahab" /></a> </p>
 
-- 🔭 I’m currently working on **UNLOK DEV**
+- 🔭 I’m currently working on **UNLOK ARCHIVE**
 
-- 🌱 I’m currently learning **React JS, Node JS**
+- 🌱 I’m currently learning **Next JS, MERN STACK**
 
-- 💬 Ask me about **HTML & CSS, JavaScript, React JS and JAVA**
+- 💬 Ask me about **React JS and Java**
 
 - 📫 How to reach me **work.mdshahabuddin@gmail.com**
 
