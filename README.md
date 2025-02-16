@@ -8,9 +8,9 @@
 
 - 🔭 I’m currently working on **UNLOK ARCHIVE**
 
-- 🌱 I’m currently learning **Next JS, MERN STACK**
+- 🌱 I’m currently learning **Next JS, Java**
 
-- 💬 Ask me about **React JS and Java**
+- 💬 Ask me about **React JS and JavaScript**
 
 - 📫 How to reach me **work.mdshahabuddin@gmail.com**
 
