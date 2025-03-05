@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **UNLOK ARCHIVE**
 
-- 🌱 I’m currently learning **Next JS, Java**
+- 🌱 I’m currently learning **Next JS, Python**
 
 - 💬 Ask me about **React JS and JavaScript**
 
