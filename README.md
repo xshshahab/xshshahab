@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/xsh_shahab" target="blank"><img src="https://img.shields.io/twitter/follow/xsh_shahab?logo=twitter&style=for-the-badge" alt="xsh_shahab" /></a> </p>
 
-- 🔭 I’m currently working on **UNLOK ARCHIVE**
+- 🔭 I’m currently working on **Tajweed is an Accreditation Framework for NCAAA & ABET**
 
-- 🌱 I’m currently learning **Next JS, Python**
+- 🌱 I’m currently learning **Generative AI and Python**
 
-- 💬 Ask me about **React JS and JavaScript**
+- 💬 Ask me about **React JS, JavaScript and MERN**
 
 - 📫 How to reach me **work.mdshahabuddin@gmail.com**
 
